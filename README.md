@@ -33,7 +33,8 @@ O projeto na verdade são 3 questões, utilizadas como requisitos para o desafio
 	### Questão 02
 
 	Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro
-	exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
+	exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma
+	senha forte quando ela satisfaz os seguintes critérios:
 
 	 - Possui no mínimo 6 caracteres.
 	 - Contém no mínimo 1 digito.
