@@ -23,9 +23,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto na verdade são 3 questões, utilizadas como requisitos para o desafio de código da Academia Capgemini - Java.
+O projeto na verdade são 3 questões, utilizadas como requisitos para o desafio de código da Academia Capgemini - Java, segue abaixo as questões:
 
-'''### Questão 01
+### Questão 01
 
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
@@ -43,7 +43,7 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 
 ### Questão 03
 
-Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.'''
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
 ## 🚀 Como executar
 
